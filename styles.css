@@ -1,2 +1,31 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f0f5;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
 
-/* Your CSS Code here. */
+.container {
+  text-align: center;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+  border: 2px solid #007bff;
+  border-radius: 8px;
+  margin-top: 10px;
+  outline: none;
+}
+
+h3 {
+  margin-top: 20px;
+  color: #333;
+  font-size: 24px;
+}
